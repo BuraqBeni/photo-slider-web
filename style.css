@@ -61,7 +61,7 @@ header .menu{
     left: 0;
     bottom: 0;
     background-image: linear-gradient(
-        to top, #000, transparent
+        to top, #000 5%, transparent
     );
 }
 .slider .list .item .content{
